@@ -7,33 +7,33 @@ This repository contains two main components: an AWS CDK stack (`fovus-project`)
 ### Step 1: Deploy the Stack
 
 1. Navigate to the `fovus-project` directory:
-    ```sh
+    ```
     cd fovus-project
     ```
 
 2. Deploy the stack using AWS CDK:
-    ```sh
+    ```
     cdk deploy
     ```
 
 ### Step 2: Navigate to the React App
 
 Once the stack is deployed, navigate to the `fovus-react-app` directory:
-    ```sh
+    ```
     cd ../fovus-react-app
     ```
 
 ### Step 3: Install Node Modules
 
 Install the necessary node modules:
-    ```sh
+    ```
     npm install
     ```
 
 ### Step 4: Run the Web App
 
 Start the React application:
-    ```sh
+    ```
     npm start
     ```
 
