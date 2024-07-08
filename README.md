@@ -38,3 +38,8 @@ Start the React application:
     ```
 
 Your web application should now be running locally and connected to the deployed AWS infrastructure.
+
+
+### References
+- [AWS CDK](https://docs.aws.amazon.com/cdk/api/v2/)
+- [AWS SDKv3](https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/)
