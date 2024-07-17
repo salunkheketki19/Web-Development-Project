@@ -1,5 +1,5 @@
 
-This repository contains two main components: an AWS CDK stack (`fovus-project`) and a React application (`fovus-react-app`). Follow the instructions below to deploy the stack and run the web application.
+This repository contains two main components: an AWS CDK stack and a React application. Follow the instructions below to deploy the stack and run the web application.
 
 ## How to Run
 
