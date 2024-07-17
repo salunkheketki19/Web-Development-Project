@@ -4,11 +4,10 @@ This repository contains two main components: an AWS CDK stack and a React appli
 ## How to Run
 
 ### Step 1: Deploy the Stack
-    ```
-    cd backend
-
-    cdk deploy
-    ```
+```
+cd backend
+cdk deploy
+```
 
 ### Step 2: Navigate to the React App
 
