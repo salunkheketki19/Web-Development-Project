@@ -1,4 +1,3 @@
-# Fovus Project
 
 This repository contains two main components: an AWS CDK stack (`fovus-project`) and a React application (`fovus-react-app`). Follow the instructions below to deploy the stack and run the web application.
 
@@ -6,12 +5,7 @@ This repository contains two main components: an AWS CDK stack (`fovus-project`)
 
 ### Step 1: Deploy the Stack
 
-1. Navigate to the `fovus-project` directory:
-    ```
-    cd fovus-project
-    ```
-
-2. Deploy the stack using AWS CDK:
+Deploy the stack using AWS CDK:
     ```
     cdk deploy
     ```
@@ -38,8 +32,3 @@ Start the React application:
     ```
 
 Your web application should now be running locally and connected to the deployed AWS infrastructure.
-
-
-### References
-- [AWS CDK](https://docs.aws.amazon.com/cdk/api/v2/)
-- [AWS SDKv3](https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/)
