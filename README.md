@@ -1,5 +1,8 @@
 
-This repository contains two main components: an AWS CDK stack and a React application. Follow the instructions below to deploy the stack and run the web application.
+
+What does this project do?
+
+This project uploads a user-provided file to AWS S3 and DynamoDB using AWS Lambda. When a file is inserted into DynamoDB, this event triggers another Lambda function. This secondary function creates a modified copy of the file, uploads the new version to S3, and updates the corresponding DynamoDB record with details of the modifications.
 
 ## How to Run
 
